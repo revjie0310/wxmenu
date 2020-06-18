@@ -4,7 +4,7 @@
         <div class="col-md-2" style="width:360px">
             <div class="custom-phone-box">
                 <h3 class="custom-nav-title">{{$label}}</h3>
-                <p class="custom-phone-body">内容区域</p>
+                <p class="custom-phone-body">内容</p>
                 <div class="custom-phone-footer">
                     <ul class="pre_menu_list">
                         <li class="jsMenu pre_menu_item "
